@@ -1,0 +1,22 @@
+{
+  "markers": [
+    {
+      "name": "TAWWIN CENTER ATM",
+	  "address": "45, PYAY RD, DAGON TSP"
+      "location": [16.785182, 96.142669],
+    },
+    {
+      "name": "CITYMART MARKETPLACE ATM",
+	  "address": "405/A, DHAMMAZAYDI ROAD, SHWE TAUNG KYAR TSP"
+      "location": [16.828173, 96.155027]
+    },
+    {
+      "name": "JUNCTION SQUARE",
+	  "address": "JUNCTION SQUARE SHOPPING MALL, JUNCTION SQUARE COMPOUND, SANCHAUNG TSP"
+      "location": [16.817082, 96.130973]
+    }
+  ]
+}
+
+	
+
